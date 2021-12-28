@@ -94,7 +94,7 @@ function printOrderTotal(responseString) {
         }
 
     } catch(e) {
-        console.error(e)
+        console.error(e);
     }
 }
 
